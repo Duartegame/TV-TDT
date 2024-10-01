@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5236cac74c0bcfa8d5f7cefe142fc7e6",amazonas/10848H/{PMT:4097}
-http://38.51.234.86:9981/stream/channelid/1204434514
-#EXTINF:-1 tvg-id="fd6874b7c69fade379444b10b63729d0",amazonas/11422H/{PMT:4099}
-http://38.51.234.86:9981/stream/channelid/930375933
 #EXTINF:-1 tvg-id="557acee78ce24c3a23ca3f223a845f93" tvg-chno="1",Canal D Drama HD
 http://38.51.234.86:9981/stream/channelid/1741584981?profile=pass
 #EXTINF:-1 tvg-id="b033e959d1e1325e00cc16f2701f9af5" tvg-chno="3",HEI
