@@ -1202,8 +1202,6 @@ http://rlatinop.com:8880/get.php?username=Oviedo&password=TsA33QbueNNs&type=m3u_
 
 http://rlatinop.com:8880/get.php?username=pandusertv0083432&password=Z7TtUrMB6d9s&type=m3u_plus
 
-http://rlatinop.com:8880/get.php?username=pao4433mon&password=WyxmAh3yyHRs&type=m3u_plus
-
 http://rlatinop.com:8880/get.php?username=Phoenitv75@&password=bYWAqvtbFdEk&type=m3u_plus
 
 http://rlatinop.com:8880/get.php?username=Playtvpremium@938&password=99823NafHbm28&type=m3u_plus
@@ -1213,8 +1211,6 @@ http://rlatinop.com:8880/get.php?username=pQBgUWEwd26x&password=KGVPbVCUsjHa&typ
 http://rlatinop.com:8880/get.php?username=QupNT4JGAmpu&password=fLDHwMUTK3ae&type=m3u_plus
 
 http://rlatinop.com:8880/get.php?username=Raulsoto2&password=kJw4sBbKrMZz&type=m3u_plus
-
-http://rlatinop.com:8880/get.php?username=rayux999a@&password=b8DHL8pURKjg&type=m3u_plus
 
 http://rlatinop.com:8880/get.php?username=red39&password=T9R7LvmqAbf9&type=m3u_plus
 
@@ -1237,8 +1233,6 @@ http://rlatinop.com:8880/get.php?username=tafXnpSFjqLf&password=ds93DV8u4EQ8&typ
 http://rlatinop.com:8880/get.php?username=Tamlem&password=LF4n5CMe7KBy&type=m3u_plus
 
 http://rlatinop.com:8880/get.php?username=todos88&password=WxmrBZuXjwCK&type=m3u_plus
-
-http://rlatinop.com:8880/get.php?username=tony&password=rWRbQLHqjYYN&type=m3u_plus
 
 http://rlatinop.com:8880/get.php?username=Tvplus297&password=pHEDDXEN2NSQ&type=m3u_plus
 
